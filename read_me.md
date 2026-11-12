@@ -1,7 +1,9 @@
 # Modularity on the Karate Club Graph
 
 **Course:** DSC-212
+
 **Author:** Edward P Lamare
+
 **Roll No:** IMS25075
 
 ## Overview
